@@ -1,5 +1,8 @@
 # Nashville City Cemetery
 A look into burials in the Nashville City Cemetery
+>
+>
+![image](https://user-images.githubusercontent.com/59903096/78056281-825b0a00-734a-11ea-930d-1479363e228c.png)
 
 # THE DATA
 The Nashville City Cemetery provided a dataset of known burials
@@ -56,4 +59,3 @@ There was so much I wanted to add to my dashboard to present to the Nashville Ci
 Prior to this project, I'd only used Excel for mathematical calculations related to profit and loss statements, project tracking and budgets. Utilizing the Nashville City Cemetery data allowed me to apply my love for color and history into a working piece of art that highlighted: 
 > The Unknown Faces Wrapped in the Battle of Nashville
 
-![image](https://user-images.githubusercontent.com/59903096/78056281-825b0a00-734a-11ea-930d-1479363e228c.png)
